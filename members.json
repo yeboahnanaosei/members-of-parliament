@@ -104,14 +104,6 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/64.jpg"
     },
     {
-        "name": "AKWASI OWUSU AFRIFA-MENSA",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "AMASAMAN CONSTITUENCY",
-        "region": "GREATER ACCRA REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/46.jpg"
-    },
-    {
         "name": "AKWASI KONADU",
         "party": "NEW PATRIOTIC PARTY",
         "party_abbr": "NPP",
@@ -128,12 +120,12 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/133.jpg"
     },
     {
-        "name": "ALBERT AKUKA ALALZUUGA",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "GARU CONSTITUENCY",
-        "region": "UPPER EAST REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/273.jpg"
+        "name": "AKWASI OWUSU AFRIFA-MENSA",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "AMASAMAN CONSTITUENCY",
+        "region": "GREATER ACCRA REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/46.jpg"
     },
     {
         "name": "ALBERT TETTEH NYAKOTEY",
@@ -142,6 +134,22 @@
         "constituency": "YILO KROBO CONSTITUENCY",
         "region": "EASTERN REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/96.jpg"
+    },
+    {
+        "name": "ALBERT AKUKA ALALZUUGA",
+        "party": "NATIONAL DEMOCRATIC CONGRESS",
+        "party_abbr": "NDC",
+        "constituency": "GARU CONSTITUENCY",
+        "region": "UPPER EAST REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/273.jpg"
+    },
+    {
+        "name": "ALEX TETTEH DJORNOBUAH",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "SEFWI AKONTOMBRA CONSTITUENCY",
+        "region": "WESTERN NORTH REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/177.jpg"
     },
     {
         "name": "ALEX ADOMAKO-MENSAH",
@@ -160,12 +168,12 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/127.jpg"
     },
     {
-        "name": "ALEX BLANKSON",
+        "name": "ALEXANDER GYAN",
         "party": "NEW PATRIOTIC PARTY",
         "party_abbr": "NPP",
-        "constituency": "AKROFUOM CONSTITUENCY",
-        "region": "ASHANTI REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/127.jpg"
+        "constituency": "KINTAMPO SOUTH CONSTITUENCY",
+        "region": "BONO EAST REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/202.jpg"
     },
     {
         "name": "ALEXANDER AKWASI ACQUAH",
@@ -176,12 +184,12 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/107.jpg"
     },
     {
-        "name": "ALEXANDER GYAN",
+        "name": "ALEXANDER AFENYO-MARKIN",
         "party": "NEW PATRIOTIC PARTY",
         "party_abbr": "NPP",
-        "constituency": "KINTAMPO SOUTH CONSTITUENCY",
-        "region": "BONO EAST REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/202.jpg"
+        "constituency": "EFFUTU CONSTITUENCY",
+        "region": "CENTRAL REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/28.jpg"
     },
     {
         "name": "ALEXANDER AGYARE",
@@ -190,14 +198,6 @@
         "constituency": "KADE CONSTITUENCY",
         "region": "EASTERN REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/112.jpg"
-    },
-    {
-        "name": "ALEXANDER AFENYO-MARKIN",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "EFFUTU CONSTITUENCY",
-        "region": "CENTRAL REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/28.jpg"
     },
     {
         "name": "ALFRED OBENG-BOATENG",
@@ -214,14 +214,6 @@
         "constituency": "ABLEKUMA SOUTH CONSTITUENCY",
         "region": "GREATER ACCRA REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/54.jpg"
-    },
-    {
-        "name": "ALHASSAN KOBINA GHANSAH",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "ASIKUMA/ODOBEN/ BRAKWA CONSTITUENCY",
-        "region": "CENTRAL REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/33.jpg"
     },
     {
         "name": "ALHASSAN TAMPULI SULEMANA",
@@ -254,6 +246,14 @@
         "constituency": "TAMALE NORTH CONSTITUENCY",
         "region": "NORTHERN REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/234.jpg"
+    },
+    {
+        "name": "ALHASSAN KOBINA GHANSAH",
+        "party": "NATIONAL DEMOCRATIC CONGRESS",
+        "party_abbr": "NDC",
+        "constituency": "ASIKUMA/ODOBEN/ BRAKWA CONSTITUENCY",
+        "region": "CENTRAL REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/33.jpg"
     },
     {
         "name": "AMA POMAA BOATENG",
@@ -504,14 +504,6 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/249.jpg"
     },
     {
-        "name": "COLLINS DAUDA",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "ASUTIFI SOUTH CONSTITUENCY",
-        "region": "AHAFO REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/184.jpg"
-    },
-    {
         "name": "COLLINS ADOMAKO-MENSAH",
         "party": "NEW PATRIOTIC PARTY",
         "party_abbr": "NPP",
@@ -526,6 +518,14 @@
         "constituency": "OFFINSO NORTH CONSTITUENCY",
         "region": "ASHANTI REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/169.jpg"
+    },
+    {
+        "name": "COLLINS DAUDA",
+        "party": "NATIONAL DEMOCRATIC CONGRESS",
+        "party_abbr": "NDC",
+        "constituency": "ASUTIFI SOUTH CONSTITUENCY",
+        "region": "AHAFO REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/184.jpg"
     },
     {
         "name": "COMFORT DOYOE CUDJOE",
@@ -560,20 +560,20 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/59.jpg"
     },
     {
-        "name": "DANIEL NSALA WAKPAL",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "KPANDAI CONSTITUENCY",
-        "region": "NORTHERN REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/219.jpg"
-    },
-    {
         "name": "DANIEL BOTWE",
         "party": "NEW PATRIOTIC PARTY",
         "party_abbr": "NPP",
         "constituency": "OKERE CONSTITUENCY",
         "region": "EASTERN REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/100.jpg"
+    },
+    {
+        "name": "DANIEL NSALA WAKPAL",
+        "party": "NATIONAL DEMOCRATIC CONGRESS",
+        "party_abbr": "NDC",
+        "constituency": "KPANDAI CONSTITUENCY",
+        "region": "NORTHERN REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/219.jpg"
     },
     {
         "name": "DANIEL OHENE DARKO",
@@ -624,12 +624,12 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/44.jpg"
     },
     {
-        "name": "DOMINIC BINGAB ADUNA NITIWUL",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "BIMBILLA CONSTITUENCY",
-        "region": "NORTHERN REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/220.jpg"
+        "name": "DOMINIC NAPARE",
+        "party": "NATIONAL DEMOCRATIC CONGRESS",
+        "party_abbr": "NDC",
+        "constituency": "SENE EAST CONSTITUENCY",
+        "region": "BONO EAST REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/209.jpg"
     },
     {
         "name": "DOMINIC AKURITINGA AYINE",
@@ -640,12 +640,12 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/266.jpg"
     },
     {
-        "name": "DOMINIC NAPARE",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "SENE EAST CONSTITUENCY",
-        "region": "BONO EAST REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/209.jpg"
+        "name": "DOMINIC BINGAB ADUNA NITIWUL",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "BIMBILLA CONSTITUENCY",
+        "region": "NORTHERN REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/220.jpg"
     },
     {
         "name": "DORCAS TOFFEY",
@@ -720,6 +720,14 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/2.jpg"
     },
     {
+        "name": "EMMANUEL AKWASI GYAMFI",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "ODOTOBIRI CONSTITUENCY",
+        "region": "ASHANTI REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/134.jpg"
+    },
+    {
         "name": "EMMANUEL KWADWO AGYEKUM",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
@@ -742,14 +750,6 @@
         "constituency": "OFORIKROM CONSTITUENCY",
         "region": "ASHANTI REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/151.jpg"
-    },
-    {
-        "name": "EMMANUEL KWASI BEDZRAH",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "HO WEST CONSTITUENCY",
-        "region": "VOLTA REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/87.jpg"
     },
     {
         "name": "ERIC OPOKU",
@@ -848,20 +848,20 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/187.jpg"
     },
     {
-        "name": "FREDERICK OBENG ADOM",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "UPPER WEST AKIM CONSTITUENCY",
-        "region": "EASTERN REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/106.jpg"
-    },
-    {
         "name": "FREDERICK YAW AHENKWAH",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
         "constituency": "JAMAN NORTH CONSTITUENCY",
         "region": "BONO REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/196.jpg"
+    },
+    {
+        "name": "FREDERICK OBENG ADOM",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "UPPER WEST AKIM CONSTITUENCY",
+        "region": "EASTERN REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/106.jpg"
     },
     {
         "name": "GEOFFREY KINI",
@@ -872,20 +872,20 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/217.jpg"
     },
     {
+        "name": "GEORGE MIREKU DUKER",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "TARKWA NSUAEM CONSTITUENCY",
+        "region": "WESTERN REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/13.jpg"
+    },
+    {
         "name": "GEORGE KWEKU RICKETTS-HAGAN",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
         "constituency": "CAPE COAST SOUTH CONSTITUENCY",
         "region": "CENTRAL REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/19.jpg"
-    },
-    {
-        "name": "GEORGE KWABENA OBENG TAKYI",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "MANSO NKWANTA CONSTITUENCY",
-        "region": "ASHANTI REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/135.jpg"
     },
     {
         "name": "GEORGE KWAME ABOAGYE",
@@ -960,20 +960,20 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/215.jpg"
     },
     {
-        "name": "HENRY YIADOM BOAKYE",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "AKWATIA CONSTITUENCY",
-        "region": "EASTERN REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/113.jpg"
-    },
-    {
         "name": "HENRY QUARTEY",
         "party": "NEW PATRIOTIC PARTY",
         "party_abbr": "NPP",
         "constituency": "AYAWASO CENTRAL CONSTITUENCY",
         "region": "GREATER ACCRA REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/51.jpg"
+    },
+    {
+        "name": "HENRY YIADOM BOAKYE",
+        "party": "NATIONAL DEMOCRATIC CONGRESS",
+        "party_abbr": "NDC",
+        "constituency": "AKWATIA CONSTITUENCY",
+        "region": "EASTERN REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/113.jpg"
     },
     {
         "name": "HOTTORDZE ALEXANDER ROOSEVELT",
@@ -984,20 +984,20 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/82.jpg"
     },
     {
-        "name": "IBRAHIM AHMED",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "BANDA CONSTITUENCY",
-        "region": "BONO REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/197.jpg"
-    },
-    {
         "name": "IBRAHIM MURTALA MUHAMMED",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
         "constituency": "TAMALE CENTRAL CONSTITUENCY",
         "region": "NORTHERN REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/232.jpg"
+    },
+    {
+        "name": "IBRAHIM AHMED",
+        "party": "NATIONAL DEMOCRATIC CONGRESS",
+        "party_abbr": "NDC",
+        "constituency": "BANDA CONSTITUENCY",
+        "region": "BONO REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/197.jpg"
     },
     {
         "name": "IDDRISS JACOB ABDULAI",
@@ -1104,36 +1104,12 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/9.jpg"
     },
     {
-        "name": "JOHN ABDULAI JINAPOR",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "YAPEI KUSAWGU CONSTITUENCY",
-        "region": "SAVANNA REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/241.jpg"
-    },
-    {
-        "name": "JOHN NTIM FORDJOUR",
+        "name": "JOHN KOBINA ABBAM ABOAH SANIE",
         "party": "NEW PATRIOTIC PARTY",
         "party_abbr": "NPP",
-        "constituency": "ASSIN SOUTH CONSTITUENCY",
-        "region": "CENTRAL REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/36.jpg"
-    },
-    {
-        "name": "JOHN AMPONTUAH KUMAH",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "EJISU CONSTITUENCY",
-        "region": "ASHANTI REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/157.jpg"
-    },
-    {
-        "name": "JOHN NTIM FORDJOUR",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "ASSIN SOUTH CONSTITUENCY",
-        "region": "CENTRAL REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/36.jpg"
+        "constituency": "MPOHOR CONSTITUENCY",
+        "region": "WESTERN REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/12.jpg"
     },
     {
         "name": "JOHN KWABENA BLESS OTI",
@@ -1144,12 +1120,36 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/218.jpg"
     },
     {
-        "name": "JOHN ABDULAI JINAPOR",
+        "name": "JOHN KOBINA ABBAM ABOAH SANIE",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "MPOHOR CONSTITUENCY",
+        "region": "WESTERN REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/12.jpg"
+    },
+    {
+        "name": "JOHN KWABENA BLESS OTI",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
-        "constituency": "YAPEI KUSAWGU CONSTITUENCY",
-        "region": "SAVANNA REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/241.jpg"
+        "constituency": "NKWANTA NORTH CONSTITUENCY",
+        "region": "OTI REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/218.jpg"
+    },
+    {
+        "name": "JOHN OSEI FRIMPONG",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "ABIREM CONSTITUENCY",
+        "region": "EASTERN REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/114.jpg"
+    },
+    {
+        "name": "JOHN AMPONTUAH KUMAH",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "EJISU CONSTITUENCY",
+        "region": "ASHANTI REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/157.jpg"
     },
     {
         "name": "JOHN - PETER AMEWU",
@@ -1168,6 +1168,14 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/170.jpg"
     },
     {
+        "name": "JOSEPH KWAME KUMAH",
+        "party": "NATIONAL DEMOCRATIC CONGRESS",
+        "party_abbr": "NDC",
+        "constituency": "KINTAMPO NORTH CONSTITUENCY",
+        "region": "BONO EAST REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/201.jpg"
+    },
+    {
         "name": "JOSEPH BETINO",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
@@ -1184,12 +1192,12 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/132.jpg"
     },
     {
-        "name": "JOSEPH AKUERTEH TETTEY",
+        "name": "JOSEPH KWASI MENSAH",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
-        "constituency": "KPONE-KATAMANSO CONSTITUENCY",
-        "region": "GREATER ACCRA REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/68.jpg"
+        "constituency": "NKORANZA NORTH CONSTITUENCY",
+        "region": "BONO EAST REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/203.jpg"
     },
     {
         "name": "JOSEPH NA FREMPONG",
@@ -1200,20 +1208,20 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/121.jpg"
     },
     {
+        "name": "JOSEPH KWASI MENSAH",
+        "party": "NATIONAL DEMOCRATIC CONGRESS",
+        "party_abbr": "NDC",
+        "constituency": "NKORANZA NORTH CONSTITUENCY",
+        "region": "BONO EAST REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/203.jpg"
+    },
+    {
         "name": "JOSEPH AKUERTEH TETTEY",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
         "constituency": "KPONE-KATAMANSO CONSTITUENCY",
         "region": "GREATER ACCRA REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/68.jpg"
-    },
-    {
-        "name": "JOSEPH NA FREMPONG",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "NKAWKAW CONSTITUENCY",
-        "region": "EASTERN REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/121.jpg"
     },
     {
         "name": "JOSEPH APPIAH BOATENG",
@@ -1230,14 +1238,6 @@
         "constituency": "EFFIA CONSTITUENCY",
         "region": "WESTERN REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/6.jpg"
-    },
-    {
-        "name": "JOSEPH NIKPE BUKARI",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "SABOBA CONSTITUENCY",
-        "region": "NORTHERN REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/226.jpg"
     },
     {
         "name": "JOYCELYN TETTEH",
@@ -1280,14 +1280,6 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/129.jpg"
     },
     {
-        "name": "KOFI AHENKORAH MARFO",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "ACHIASE CONSTITUENCY",
-        "region": "EASTERN REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/110.jpg"
-    },
-    {
         "name": "KOFI AMANKWA-MANU",
         "party": "NEW PATRIOTIC PARTY",
         "party_abbr": "NPP",
@@ -1312,6 +1304,14 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/120.jpg"
     },
     {
+        "name": "KOFI AHENKORAH MARFO",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "ACHIASE CONSTITUENCY",
+        "region": "EASTERN REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/110.jpg"
+    },
+    {
         "name": "KOFI ARKO NOKOE",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
@@ -1328,22 +1328,6 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/111.jpg"
     },
     {
-        "name": "KWABENA MINTAH AKANDOH",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "JUABOSO CONSTITUENCY",
-        "region": "WESTERN NORTH REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/178.jpg"
-    },
-    {
-        "name": "KWABENA DONKOR",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "PRU EAST CONSTITUENCY",
-        "region": "BONO EAST REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/207.jpg"
-    },
-    {
         "name": "KWABENA OKYERE DARKO-MENSAH",
         "party": "NEW PATRIOTIC PARTY",
         "party_abbr": "NPP",
@@ -1358,6 +1342,22 @@
         "constituency": "FANTEAKWA NORTH CONSTITUENCY",
         "region": "EASTERN REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/119.jpg"
+    },
+    {
+        "name": "KWABENA MINTAH AKANDOH",
+        "party": "NATIONAL DEMOCRATIC CONGRESS",
+        "party_abbr": "NDC",
+        "constituency": "JUABOSO CONSTITUENCY",
+        "region": "WESTERN NORTH REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/178.jpg"
+    },
+    {
+        "name": "KWABENA DONKOR",
+        "party": "NATIONAL DEMOCRATIC CONGRESS",
+        "party_abbr": "NDC",
+        "constituency": "PRU EAST CONSTITUENCY",
+        "region": "BONO EAST REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/207.jpg"
     },
     {
         "name": "KWADJO ASANTE",
@@ -1424,12 +1424,20 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/194.jpg"
     },
     {
-        "name": "KWAME DZUDZORLI GAKPEY",
+        "name": "KWAME ANYIMADU-ANTWI",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "ASANTE AKIM CENTRAL CONSTITUENCY",
+        "region": "ASHANTI REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/159.jpg"
+    },
+    {
+        "name": "KWAME GOVERNS AGBODZA",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
-        "constituency": "KETA CONSTITUENCY",
+        "constituency": "ADAKLU CONSTITUENCY",
         "region": "VOLTA REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/75.jpg"
+        "photo": "https://www.parliament.gh/epanel/mps/photos/84.jpg"
     },
     {
         "name": "KWAME ANYIMADU-ANTWI",
@@ -1440,20 +1448,12 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/159.jpg"
     },
     {
-        "name": "KWAME DZUDZORLI GAKPEY",
+        "name": "KWAME GOVERNS AGBODZA",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
-        "constituency": "KETA CONSTITUENCY",
+        "constituency": "ADAKLU CONSTITUENCY",
         "region": "VOLTA REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/75.jpg"
-    },
-    {
-        "name": "KWAME ANYIMADU-ANTWI",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "ASANTE AKIM CENTRAL CONSTITUENCY",
-        "region": "ASHANTI REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/159.jpg"
+        "photo": "https://www.parliament.gh/epanel/mps/photos/84.jpg"
     },
     {
         "name": "KWAMENA MINTA NYARKU",
@@ -1592,14 +1592,6 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/230.jpg"
     },
     {
-        "name": "MOHAMMED ADAMU RAMADAN",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "ADENTAN CONSTITUENCY",
-        "region": "GREATER ACCRA REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/70.jpg"
-    },
-    {
         "name": "MOHAMMED MUBARAK MUNTAKA",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
@@ -1608,12 +1600,20 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/152.jpg"
     },
     {
-        "name": "MOHAMMED ADAMS SUKPARU",
+        "name": "MOHAMMED HARDI TUFEIRU",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "NANTON CONSTITUENCY",
+        "region": "NORTHERN REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/230.jpg"
+    },
+    {
+        "name": "MOHAMMED ADAMU RAMADAN",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
-        "constituency": "SISSALA WEST CONSTITUENCY",
-        "region": "UPPER WEST REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/253.jpg"
+        "constituency": "ADENTAN CONSTITUENCY",
+        "region": "GREATER ACCRA REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/70.jpg"
     },
     {
         "name": "MOHAMMED AMIN ADAM",
@@ -1696,14 +1696,6 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/22.jpg"
     },
     {
-        "name": "OSCAR OFORI LARBI",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "AOWIN CONSTITUENCY",
-        "region": "WESTERN NORTH REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/173.jpg"
-    },
-    {
         "name": "OSCAR LIWAAL",
         "party": "NEW PATRIOTIC PARTY",
         "party_abbr": "NPP",
@@ -1712,12 +1704,12 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/259.jpg"
     },
     {
-        "name": "OSEI BONSU AMOAH",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "AKWAPLM SOUTH CONSTITUENCY",
-        "region": "EASTERN REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/101.jpg"
+        "name": "OSCAR OFORI LARBI",
+        "party": "NATIONAL DEMOCRATIC CONGRESS",
+        "party_abbr": "NDC",
+        "constituency": "AOWIN CONSTITUENCY",
+        "region": "WESTERN NORTH REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/173.jpg"
     },
     {
         "name": "OSEI KYEI-MENSAH-BONSU",
@@ -1726,6 +1718,14 @@
         "constituency": "SUAME CONSTITUENCY",
         "region": "ASHANTI REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/149.jpg"
+    },
+    {
+        "name": "OSEI BONSU AMOAH",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "AKWAPLM SOUTH CONSTITUENCY",
+        "region": "EASTERN REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/101.jpg"
     },
     {
         "name": "PATRICIA APPIAGYEI",
@@ -1744,20 +1744,20 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/185.jpg"
     },
     {
-        "name": "PATRICK BOAKYE-YIADOM",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "OBUASI EAST CONSTITUENCY",
-        "region": "ASHANTI REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/131.jpg"
-    },
-    {
         "name": "PATRICK YAW BOAMAH",
         "party": "NEW PATRIOTIC PARTY",
         "party_abbr": "NPP",
         "constituency": "OKAIKWEI CENTRAL CONSTITUENCY",
         "region": "GREATER ACCRA REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/56.jpg"
+    },
+    {
+        "name": "PATRICK BOAKYE-YIADOM",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "OBUASI EAST CONSTITUENCY",
+        "region": "ASHANTI REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/131.jpg"
     },
     {
         "name": "PAUL APREKU TWUM-BARIMAH",
@@ -1816,12 +1816,12 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/32.jpg"
     },
     {
-        "name": "RICHARD KWAMI SEFE",
+        "name": "RICHARD GYAN-MENSAH",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
-        "constituency": "ANLO CONSTITUENCY",
-        "region": "VOLTA REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/76.jpg"
+        "constituency": "GOMOA WEST CONSTITUENCY",
+        "region": "CENTRAL REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/25.jpg"
     },
     {
         "name": "RICHARD ACHEAMPONG",
@@ -1832,12 +1832,12 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/181.jpg"
     },
     {
-        "name": "RICHARD GYAN-MENSAH",
+        "name": "RICHARD KWAMI SEFE",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
-        "constituency": "GOMOA WEST CONSTITUENCY",
-        "region": "CENTRAL REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/25.jpg"
+        "constituency": "ANLO CONSTITUENCY",
+        "region": "VOLTA REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/76.jpg"
     },
     {
         "name": "RITA NAA ODOLEY SOWAH",
@@ -1880,38 +1880,6 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/263.jpg"
     },
     {
-        "name": "SAMUEL NARTEY GEORGE",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "NINGO-PRAMPRAM CONSTITUENCY",
-        "region": "GREATER ACCRA REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/72.jpg"
-    },
-    {
-        "name": "SAMUEL ABDULAI JINAPOR",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "DAMONGO CONSTITUENCY",
-        "region": "SAVANNA REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/239.jpg"
-    },
-    {
-        "name": "SAMUEL ATTA-MILLS",
-        "party": "NATIONAL DEMOCRATIC CONGRESS",
-        "party_abbr": "NDC",
-        "constituency": "KOMENDA EDINA EGUAFO ABREM CONSTITUENCY",
-        "region": "CENTRAL REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/18.jpg"
-    },
-    {
-        "name": "SAMUEL ERICKSON ABAKAH",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "SHAMA CONSTITUENCY",
-        "region": "WESTERN REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/10.jpg"
-    },
-    {
         "name": "SAMUEL ATTA AKYEA",
         "party": "NEW PATRIOTIC PARTY",
         "party_abbr": "NPP",
@@ -1926,6 +1894,38 @@
         "constituency": "NINGO-PRAMPRAM CONSTITUENCY",
         "region": "GREATER ACCRA REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/72.jpg"
+    },
+    {
+        "name": "SAMUEL ATTA-MILLS",
+        "party": "NATIONAL DEMOCRATIC CONGRESS",
+        "party_abbr": "NDC",
+        "constituency": "KOMENDA EDINA EGUAFO ABREM CONSTITUENCY",
+        "region": "CENTRAL REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/18.jpg"
+    },
+    {
+        "name": "SAMUEL OKUDZETO ABLAKWA",
+        "party": "NATIONAL DEMOCRATIC CONGRESS",
+        "party_abbr": "NDC",
+        "constituency": "NORTH TONGU CONSTITUENCY",
+        "region": "VOLTA REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/83.jpg"
+    },
+    {
+        "name": "SAMUEL ERICKSON ABAKAH",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "SHAMA CONSTITUENCY",
+        "region": "WESTERN REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/10.jpg"
+    },
+    {
+        "name": "SAMUEL OKUDZETO ABLAKWA",
+        "party": "NATIONAL DEMOCRATIC CONGRESS",
+        "party_abbr": "NDC",
+        "constituency": "NORTH TONGU CONSTITUENCY",
+        "region": "VOLTA REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/83.jpg"
     },
     {
         "name": "SANJA NANJA",
@@ -2000,12 +2000,12 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/143.jpg"
     },
     {
-        "name": "STEPHEN PAMBIIN JALULAH",
+        "name": "STEPHEN AMOAH",
         "party": "NEW PATRIOTIC PARTY",
         "party_abbr": "NPP",
-        "constituency": "PRU WEST CONSTITUENCY",
-        "region": "BONO EAST REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/206.jpg"
+        "constituency": "NHYIAESO CONSTITUENCY",
+        "region": "ASHANTI REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/143.jpg"
     },
     {
         "name": "SULEMAN ADAMU SANID",
@@ -2048,20 +2048,20 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/93.jpg"
     },
     {
-        "name": "THOMAS MBOMBA",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "TATALE/SANGULI CONSTITUENCY",
-        "region": "NORTHERN REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/223.jpg"
-    },
-    {
         "name": "THOMAS ADDA DALU",
         "party": "NATIONAL DEMOCRATIC CONGRESS",
         "party_abbr": "NDC",
         "constituency": "CHIANA-PAGA CONSTITUENCY",
         "region": "UPPER EAST REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/264.jpg"
+    },
+    {
+        "name": "THOMAS MBOMBA",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "TATALE/SANGULI CONSTITUENCY",
+        "region": "NORTHERN REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/223.jpg"
     },
     {
         "name": "TINA GIFTY NAA AYELEY MENSAH",
@@ -2144,20 +2144,20 @@
         "photo": "https://www.parliament.gh/epanel/mps/photos/213.jpg"
     },
     {
-        "name": "YAW OSEI ADUTWUM",
-        "party": "NEW PATRIOTIC PARTY",
-        "party_abbr": "NPP",
-        "constituency": "BOSOMTWE CONSTITUENCY",
-        "region": "ASHANTI REGION",
-        "photo": "https://www.parliament.gh/epanel/mps/photos/140.jpg"
-    },
-    {
         "name": "YAW FRIMPONG ADDO",
         "party": "NEW PATRIOTIC PARTY",
         "party_abbr": "NPP",
         "constituency": "MANSO ADUBIA CONSTITUENCY",
         "region": "ASHANTI REGION",
         "photo": "https://www.parliament.gh/epanel/mps/photos/136.jpg"
+    },
+    {
+        "name": "YAW OSEI ADUTWUM",
+        "party": "NEW PATRIOTIC PARTY",
+        "party_abbr": "NPP",
+        "constituency": "BOSOMTWE CONSTITUENCY",
+        "region": "ASHANTI REGION",
+        "photo": "https://www.parliament.gh/epanel/mps/photos/140.jpg"
     },
     {
         "name": "YUSIF SULEMANA",

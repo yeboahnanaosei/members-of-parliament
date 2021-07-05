@@ -70,7 +70,7 @@ fn main() {
 	}
 	members_arr := threads.wait()
 
-	mut final_data := []Member{len: 275, cap: 275}
+	mut final_data := []Member{cap: 275}
 
 	// FIXME: Fix nested for loop
 	for members in members_arr {
