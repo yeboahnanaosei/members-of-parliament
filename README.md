@@ -9,3 +9,5 @@ Drop me a comment if you find this useful:
 > Twitter: [@yeboahnanaosei](https://twitter.com/yeboahnanaosei)
 
 > Email: [yeboahnanaosei@gmail.com](mailto://yeboahnanaosei@gmail.com)
+
+Download Windows or Linux version from the [releases page](https://github.com/yeboahnanaosei/members-of-parliament/releases)
