@@ -68,13 +68,16 @@ fn main() {
 	for link in page_links {
 		threads << go get_members('$base_url/$link')
 	}
-	members := threads.wait()
+	members_arr := threads.wait()
 
 	mut final_data := []Member{cap: 275}
-	for arr in members {
-		for mp in arr {
+
+	// FIXME: Fix nested for loop
+	for members in members_arr {
+		for mp in members {
 			final_data << mp
 		}
 	}
+
 	println(json.encode(final_data))
 }
